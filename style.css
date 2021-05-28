@@ -7,8 +7,14 @@ body {
 ol {
 
     text-align: center;
+    display: inline-block;
 }
 
+ul{
+
+    text-align: center;
+    display: inline-block;
+}
 image 
 {
     align-content: center; 
