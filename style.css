@@ -1,9 +1,9 @@
 body {
     color: black;
-    background-color: rgb(250, 231, 202);
+    background-color: rgb(203, 229, 253);
     text-align: left;
     font-family: 'Source Sans Pro', sans-serif;
-    te
+    
 }
     
 ol {
@@ -20,4 +20,12 @@ ul{
 image 
 {
     align-content: center; 
+}
+.card-white {
+    background-color: rgb(255 255 252);
+    padding: 10px 40px 30px 25px;
+    width: 850px;
+    text-align: justify;
+    margin: 16px auto 16px auto;
+    border-radius: 30px;
 }
