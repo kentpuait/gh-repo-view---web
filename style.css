@@ -57,7 +57,7 @@ h2 {
 .btn-green {
     background-color: rgb(3, 143, 21);
     color: rgb(240, 240, 240);
-.btn-green {
+.btn {
         padding: 12px 16px;
         border-radius: 4px;
     }
@@ -69,3 +69,12 @@ a {
         margin: 0 auto;
         width: 240px;
         text-align: justify;
+        div {
+            display: block;
+        }
+
+ a:-webkit-any-link {
+            color: -webkit-link;
+            cursor: pointer;
+            text-decoration: underline;
+        }
