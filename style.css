@@ -32,3 +32,17 @@ image
 h1 {
     text-align: center; 
 }
+h2 {
+    text-align: center; 
+
+}
+.img-round {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+    box-shadow: 2px 3px 9px 0px rgb(27 67 82);
+    float: right;
+    margin: 3px 0 10px 16px;
+}
+
