@@ -1,6 +1,6 @@
 body {
     color: black;
-    background-color: rgb(224, 237, 250);
+    background-color: rgb(249,248,235);
     text-align: left;
     font-family: 'Source Sans Pro', sans-serif;
     
@@ -52,7 +52,6 @@ image
     align-content: center;
     justify-content: center;
     align-items: baseline;
-
 }
 h1 {
     text-align: center; 
